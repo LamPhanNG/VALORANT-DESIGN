@@ -90,10 +90,12 @@ nav img {
 	transform: translate(-50%,-50%);
 	text-align: center;
 }
-.PlayNow h1{
-	font-size: 120px;   font-family: 'VALORANT', sans-serif;
-                                                                                           
+.PlayNow img{
+	margin: -150px;
+	width: 1000px
 }
+	                          
+
 .PlayNow h4{
 	font-size: 20px;
 	font-family: 'Nunito', sans-serif;
@@ -362,6 +364,9 @@ div img{
 	font-family: 'Nunito', sans-serif;
 	color: rgba(0,0,0,1.00)
 }
-@import url('http://fonts.cdnfonts.com/css/valorant');
+<style>
+                            @import url('http://fonts.cdnfonts.com/css/valorant');
+</style>
+                
 
                 
